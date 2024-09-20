@@ -1,0 +1,277 @@
+IP	Descripción 	Fecha reporte	Nombre Amenaza	Tipo de amenaza
+IP	195.123.233.55	14/05/2024		
+IP	38.180.142.249	14/05/2024		
+IP	5.161.245.155	14/05/2024		
+IP	20.115.96.90	14/05/2024		
+IP	91.90.195.52	14/05/2024		
+IP	195.123.233.42	14/05/2024		
+IP	15.235.218.150	14/05/2024		
+IP	77.246.101.135	14/05/2024		
+IP	185.215.113.66 	14/05/2024		
+IP	193.233.132.177 	14/05/2024		
+IP	95.216.163.127	16/05/2024		
+IP	88.99.85.235	16/05/2024		
+IP	159.100.13.216	21/05/2024		
+IP	148.66.147.215	23/05/2024		
+IP	50.63.10.69	23/05/2024		
+IP	199.59.243.225	29/05/2024		
+IP	152.231.127.18	30/05/2024		
+IP	92.118.39.120	30/05/2024		
+IP	193.222.96.163	30/05/2024		
+IP	79.110.62.25	30/05/2024		
+IP	68.170.165.36	30/05/2024		
+IP	94.156.79.60	30/05/2024		
+IP	94.156.79.129	30/05/2024		
+IP	185.216.70.138	30/05/2024		
+IP	78.153.140.51	30/05/2024		
+IP	162.159.137.9	4/06/2024		
+IP	91.188.254.92	4/06/2024		
+IP	103.161.35.44 	5/06/2024		
+IP	144.76.61.60	5/06/2024		
+IP	173.230.158.111	5/06/2024		
+IP	193.92.45.18	5/06/2024		
+IP	45.79.100.237	5/06/2024		
+IP	77.94.250.183	5/06/2024		
+IP	77.94.250.191	5/06/2024		
+IP	82.223.18.138	5/06/2024		
+IP	77.94.250.191 	5/06/2024		
+IP	34.117.60.144 	6/06/2024		
+IP	168.101.51.189	6/06/2024		
+IP	198.54.118.197	14/06/2024		
+IP	66.29.159.83	14/06/2024		
+IP	198.54.122.98	14/06/2024		
+IP	198.54.118.200	14/06/2024		
+IP	104.21.38.153     	14/06/2024		
+IP	66.29.159.81	14/06/2024		
+IP	64.19.222.131	17/06/2024		
+IP	206.189.204.54	17/06/2024		
+IP	107.189.7.84	17/06/2024		
+IP	194.36.190.118	17/06/2024		
+IP	185.31.175.10 	18/06/2024		
+IP	144.217.96.196         	18/06/2024		
+IP	194.233.80.39	18/06/2024		
+IP	202.61.204.169	18/06/2024		
+IP	80.66.88.146 	18/06/2024		
+IP	185.49.69.41 	18/06/2024		
+IP	188.114.97.0 	24/06/2024		
+IP	188.114.96.0	24/06/2024		
+IP	213.16.167.149	25/06/2024		
+IP	185.244.151.23 	25/06/2024		
+IP	104.245.245.7	26/06/2024		
+IP	23.94.169.159	26/06/2024		
+IP	184.168.31.6	26/06/2024		
+IP	13.59.86.43	26/06/2024		
+IP	15.197.192.55	26/06/2024		
+IP	79.137.192[].4	28/06/2024		
+IP	159.69.83.232	28/06/2024		
+IP	195.201.97.156	28/06/2024		
+IP	88.198.117.174	28/06/2024		
+IP	129.144.180.26	28/06/2024		
+IP	3.33.130.190	2/07/2024		
+IP	15.197.148.33	2/07/2024		
+IP	91.92.252.7	4/07/2024	Neptune Infostealer	Robo de datos
+IP	91.92.241.244	4/07/2024	Neptune Infostealer	Robo de datos
+IP	194.33.191.106	4/07/2024	Neptune Infostealer	Robo de datos
+IP	195.35.10.33	4/07/2024	Neptune Infostealer	Robo de datos
+IP	78.40.143.117 	4/07/2024	Neptune Infostealer	Robo de datos
+IP	94.156.65.54	4/07/2024	Neptune Infostealer	Robo de datos
+IP	91.92.240.152	4/07/2024	Neptune Infostealer	Robo de datos
+IP	91.92.240.153	4/07/2024	Neptune Infostealer	Robo de datos
+IP	82.221.136.24	4/07/2024	Neptune Infostealer	Robo de datos
+IP	173.44.141.152	4/07/2024	ElDorado	Ransomware
+IP	193.26.156.91	4/07/2024	Cryptominig Scam	Malware
+IP	193.26.158.190	4/07/2024	Cryptominig Scam	Malware
+IP	202.61.204.169	4/07/2024	Cryptominig Scam	Malware
+IP	89.58.15.169	4/07/2024	Cryptominig Scam	Malware
+IP	89.58.15.35	4/07/2024	Cryptominig Scam	Malware
+IP	89.58.14.251	4/07/2024	Cryptominig Scam	Malware
+IP	195.154.164.40 	5/07/2024	Suplantación Lider BCI (Csirt)	Phishing
+IP	144.217.96.196 	5/07/2024	Suplantación Lider BCI (Csirt)	Phishing
+IP	23.111.74.23 	5/07/2024	Suplantación Lider BCI (Csirt)	Phishing
+IP	98.124.224.17	8/07/2024	Loader Fakebat	Malware
+IP	191.88.249.10	11/07/2024	ASYNCRAT	Malware
+IP	82.153.138.25	15/07/2024	CRYSTALRAY	Malware
+IP	157.245.193.241	15/07/2024	CRYSTALRAY	Malware
+IP	45.61.143.47	15/07/2024	CRYSTALRAY	Malware
+IP	188.127.227.206	15/07/2024	Csirt Chile Falso aviso "la cuenta será bloqueada"	Phishing
+IP	159.183.24.149	15/07/2024	Csirt Chile Falso aviso "la cuenta será bloqueada"	Phishing
+IP	193.43.104.243    	15/07/2024	Csirt Chile Falso aviso "la cuenta será bloqueada"	Phishing
+IP	209.94.90.1          	15/07/2024	Csirt Chile Falso aviso "la cuenta será bloqueada"	Phishing
+IP	46.19.143.14	15/07/2024	BugSleep	Malware
+IP	91.235.234.202	15/07/2024	BugSleep	Malware
+IP	85.239.61.97	15/07/2024	BugSleep	Malware
+IP	95.164.32.69	15/07/2024	BugSleep	Malware
+IP	5.252.23.52	15/07/2024	BugSleep	Malware
+IP	194.4.50.133	15/07/2024	BugSleep	Malware
+IP	193.109.120.59	15/07/2024	BugSleep	Malware
+IP	89.221.225.81	15/07/2024	BugSleep	Malware
+IP	45.150.108.198	15/07/2024	BugSleep	Malware
+IP	200.200.200.248	15/07/2024	BugSleep	Malware
+IP	169.150.227.230	15/07/2024	BugSleep	Malware
+IP	169.150.227.205	15/07/2024	BugSleep	Malware
+IP	185.248.85.20	15/07/2024	BugSleep	Malware
+IP	141.98.252.143	15/07/2024	BugSleep	Malware
+IP	31.171.154.54	15/07/2024	BugSleep	Malware
+IP	146.70.172.227	15/07/2024	BugSleep	Malware
+IP	198.54.131.36	15/07/2024	BugSleep	Malware
+IP	185.172.128.95	17/07/2024	campaña de día cero CVE-2024-38122	Robo de datos
+IP	176.124.59.12 	18/07/2024	Csirt Chile Falso aviso "Líder BCI - Phishing"	Phishing
+IP	108.179.252.59	18/07/2024	Csirt Chile Falso aviso "Líder BCI - Phishing"	Phishing
+IP	213.5.130.58[:]443	22/07/2024	Incidente Crowdstrike	Phishing
+IP	108.61.142.190	22/07/2024	Play Linux EXSI	Ransomware
+IP	185.199.110.153	22/07/2024	Incidente Crowdstrike	Phishing
+IP	66.97.36.169 	24/07/2024	Csirt Chile Falso aviso "Líder BCI - Phishing"	Phishing
+IP	108.179.252.59         	24/07/2024	Csirt Chile Falso aviso "Líder BCI - Phishing"	Phishing
+IP	177.53.149.42	24/07/2024	Csirt Chile Falso aviso "Líder BCI - Phishing"	Phishing
+IP	84.38.134.56	26/07/2024	Onyx Sleet	Malware
+IP	45.155.37.101	26/07/2024	Onyx Sleet	Malware
+IP	213.139.205.151	26/07/2024	Onyx Sleet	Malware
+IP	109.248.150.147	26/07/2024	Onyx Sleet	Malware
+IP	162.19.71.175	26/07/2024	Onyx Sleet	Malware
+IP	147.78.149.201	26/07/2024	Onyx Sleet	Malware
+IP	165.22.195.35	26/07/2024	Campaña Selenium Grid	Inyección de Código
+IP	165.227.63.24	26/07/2024	Campaña Selenium Grid	Inyección de Código
+IP	164.90.149.104 	26/07/2024	Campaña Selenium Grid	Inyección de Código
+IP	164.90.149.104	26/07/2024	Campaña Selenium Grid	Inyección de Código
+IP	192.241.144.69	26/07/2024	Campaña Selenium Grid	Inyección de Código
+IP	185.172.128.95	29/07/2024	Grupo Stargazer Goblin 	Robo de datos
+IP	205.210.31.35	30/07/2024	Medusa	Malware
+IP	213.226.112.95	31/07/2024	Tofsee	Malware
+IP	20.103.156.88	6/08/2024	Tycoon 2FA Phish-kit	Phishing
+IP	23.36.162.75	6/08/2024	Tycoon 2FA Phish-kit	Phishing
+IP	172.67.137.147	6/08/2024	Tycoon 2FA Phish-kit	Phishing
+IP	104.26.8.44	6/08/2024	Tycoon 2FA Phish-kit	Phishing
+IP	44.207.203.25	6/08/2024	Tycoon 2FA Phish-kit	Phishing
+IP	204.79.197.239	6/08/2024	Tycoon 2FA Phish-kit	Phishing
+IP	20.223.35.26	6/08/2024	Tycoon 2FA Phish-kit	Phishing
+IP	185.199.111.133	6/08/2024	Tycoon 2FA Phish-kit	Phishing
+IP	13.33.187.14	6/08/2024	Tycoon 2FA Phish-kit	Phishing
+IP	140.82.121.4	6/08/2024	Tycoon 2FA Phish-kit	Phishing
+IP	18.245.31.33	6/08/2024	Tycoon 2FA Phish-kit	Phishing
+IP	104.21.50.221	6/08/2024	Tycoon 2FA Phish-kit	Phishing
+IP	150.171.29.10	6/08/2024	Tycoon 2FA Phish-kit	Phishing
+IP	35.190.80.1	6/08/2024	Tycoon 2FA Phish-kit	Phishing
+IP	2.23.209.130	6/08/2024	Tycoon 2FA Phish-kit	Phishing
+IP	23.48.23.26	6/08/2024	Tycoon 2FA Phish-kit	Phishing
+IP	20.42.65.85	6/08/2024	Tycoon 2FA Phish-kit	Phishing
+IP	184.28.89.167	6/08/2024	Tycoon 2FA Phish-kit	Phishing
+IP	104.18.94.41	6/08/2024	Tycoon 2FA Phish-kit	Phishing
+IP	13.107.246.45	6/08/2024	Tycoon 2FA Phish-kit	Phishing
+IP	13.107.21.239	6/08/2024	Tycoon 2FA Phish-kit	Phishing
+IP	104.17.25.14	6/08/2024	Tycoon 2FA Phish-kit	Phishing
+IP	151.101.194.137	6/08/2024	Tycoon 2FA Phish-kit	Phishing
+IP	188.114.96.3	6/08/2024	Tycoon 2FA Phish-kit	Phishing
+IP	13.107.21.237	6/08/2024	Tycoon 2FA Phish-kit	Phishing
+IP	191.252.139.170	6/08/2024	Tycoon 2FA Phish-kit	Phishing
+IP	95.163.52.89	6/08/2024	Tycoon 2FA Phish-kit	Phishing
+IP	74.125.250.129	6/08/2024	Tycoon 2FA Phish-kit	Phishing
+IP	23.56.205.118	6/08/2024	Tycoon 2FA Phish-kit	Phishing
+IP	104.126.37.128	6/08/2024	Tycoon 2FA Phish-kit	Phishing
+IP	95.163.41.56	6/08/2024	Tycoon 2FA Phish-kit	Phishing
+IP	104.126.37.137	6/08/2024	Tycoon 2FA Phish-kit	Phishing
+IP	224.0.0.251	6/08/2024	Tycoon 2FA Phish-kit	Phishing
+IP	93.186.225.194	6/08/2024	Tycoon 2FA Phish-kit	Phishing
+IP	87.240.132.72	6/08/2024	Tycoon 2FA Phish-kit	Phishing
+IP	51.20.213.146	6/08/2024	Tycoon 2FA Phish-kit	Phishing
+IP	20.101.57.9	6/08/2024	Tycoon 2FA Phish-kit	Phishing
+IP	52.168.117.170	6/08/2024	Tycoon 2FA Phish-kit	Phishing
+IP	52.111.232.11	6/08/2024	Tycoon 2FA Phish-kit	Phishing
+IP	23.48.23.11	6/08/2024	Tycoon 2FA Phish-kit	Phishing
+IP	52.113.194.132	6/08/2024	Tycoon 2FA Phish-kit	Phishing
+IP	52.109.28.46	6/08/2024	Tycoon 2FA Phish-kit	Phishing
+IP	52.111.229.19	12/08/2024	Phishing Casbaneiro	Phishing
+IP	95.179.139.29	12/08/2024	Phishing Casbaneiro	Phishing
+IP	2.23.197.184	12/08/2024	Phishing Casbaneiro	Phishing
+IP	40.126.32.140	12/08/2024	Phishing Casbaneiro	Phishing
+IP	184.24.77.52	12/08/2024	Phishing Casbaneiro	Phishing
+IP	13.85.23.206	12/08/2024	Phishing Casbaneiro	Phishing
+IP	20.223.36.55	12/08/2024	Phishing Casbaneiro	Phishing
+IP	20.223.35.26	12/08/2024	Phishing Casbaneiro	Phishing
+IP	184.86.251.20	12/08/2024	Phishing Casbaneiro	Phishing
+IP	184.86.251.30	12/08/2024	Phishing Casbaneiro	Phishing
+IP	40.127.240.158	12/08/2024	Phishing Casbaneiro	Phishing
+IP	151.101.2.188	14/08/2024	Campaña que que suplanta a Microsoft Outlook (reportada por Csirt Chile)	Phishing
+IP	37.221.126.202	14/08/2024	Campaña Ingeniería social SystemBC	Ingeniería Social
+IP	91.196.70.160	14/08/2024	Campaña Ingeniería social SystemBC	Ingeniería Social
+IP	217.15.175.191	14/08/2024	Campaña Ingeniería social SystemBC	Ingeniería Social
+IP	45.155.249.97	14/08/2024	Campaña Ingeniería social SystemBC	Ingeniería Social
+IP	77.238.224.56	14/08/2024	Campaña Ingeniería social SystemBC	Ingeniería Social
+IP	77.238.229.63	14/08/2024	Campaña Ingeniería social SystemBC	Ingeniería Social
+IP	77.238.250.123	14/08/2024	Campaña Ingeniería social SystemBC	Ingeniería Social
+IP	77.238.245.233	14/08/2024	Campaña Ingeniería social SystemBC	Ingeniería Social
+IP	91.142.74.28	14/08/2024	Campaña Ingeniería social SystemBC	Ingeniería Social
+IP	191.142.74.28	14/08/2024	Campaña Ingeniería social SystemBC	Ingeniería Social
+IP	195.2.70.38	14/08/2024	Campaña Ingeniería social SystemBC	Ingeniería Social
+IP	46.8.238.240	15/08/2024	Multiples campañas Tusk	Phishing
+IP	77.91.77.200	15/08/2024	Multiples campañas Tusk	Phishing
+IP	23.94.225.177	15/08/2024	Multiples campañas Tusk	Phishing
+IP	89.169.52.59	15/08/2024	Multiples campañas Tusk	Phishing
+IP	81.19.137.7	15/08/2024	Multiples campañas Tusk	Phishing
+IP	194.116.217.148	15/08/2024	Multiples campañas Tusk	Phishing
+IP	85.28.47.139	15/08/2024	Multiples campañas Tusk	Phishing
+IP	93.84.115.149	15/08/2024	IPFS (InterPlanetary File System)	Phishing
+IP	91.241.19.49	20/08/2024	BlindEagle (APT-C-36)	Phishing
+IP	109.70.100.71	20/08/2024	AWS .ENV Files	Vulnerabilidad
+IP	144.172.118.62	20/08/2024	AWS .ENV Files	Vulnerabilidad
+IP	176.123.8.245	20/08/2024	AWS .ENV Files	Vulnerabilidad
+IP	185.100.85.25	20/08/2024	AWS .ENV Files	Vulnerabilidad
+IP	185.100.87.41	20/08/2024	AWS .ENV Files	Vulnerabilidad
+IP	185.220.101.190	20/08/2024	AWS .ENV Files	Vulnerabilidad
+IP	185.220.101.19	20/08/2024	AWS .ENV Files	Vulnerabilidad
+IP	185.220.101.21	20/08/2024	AWS .ENV Files	Vulnerabilidad
+IP	185.220.101.29	20/08/2024	AWS .ENV Files	Vulnerabilidad
+IP	185.220.101.30	20/08/2024	AWS .ENV Files	Vulnerabilidad
+IP	185.220.101.86	20/08/2024	AWS .ENV Files	Vulnerabilidad
+IP	185.220.103.113	20/08/2024	AWS .ENV Files	Vulnerabilidad
+IP	192.42.116.181	20/08/2024	AWS .ENV Files	Vulnerabilidad
+IP	192.42.116.187	20/08/2024	AWS .ENV Files	Vulnerabilidad
+IP	192.42.116.18	20/08/2024	AWS .ENV Files	Vulnerabilidad
+IP	192.42.116.192	20/08/2024	AWS .ENV Files	Vulnerabilidad
+IP	192.42.116.199	20/08/2024	AWS .ENV Files	Vulnerabilidad
+IP	192.42.116.201	20/08/2024	AWS .ENV Files	Vulnerabilidad
+IP	192.42.116.208	20/08/2024	AWS .ENV Files	Vulnerabilidad
+IP	192.42.116.218	20/08/2024	AWS .ENV Files	Vulnerabilidad
+IP	198.251.88.142	20/08/2024	AWS .ENV Files	Vulnerabilidad
+IP	199.249.230.161	20/08/2024	AWS .ENV Files	Vulnerabilidad
+IP	45.83.104.137	20/08/2024	AWS .ENV Files	Vulnerabilidad
+IP	62.171.137.169	20/08/2024	AWS .ENV Files	Vulnerabilidad
+IP	80.67.167.81	20/08/2024	AWS .ENV Files	Vulnerabilidad
+IP	89.234.157.254	20/08/2024	AWS .ENV Files	Vulnerabilidad
+IP	94.142.241.194	20/08/2024	AWS .ENV Files	Vulnerabilidad
+IP	95.214.234.103	20/08/2024	AWS .ENV Files	Vulnerabilidad
+IP	125.20.131.190	20/08/2024	AWS .ENV Files	Vulnerabilidad
+IP	196.112.184.14	20/08/2024	AWS .ENV Files	Vulnerabilidad
+IP	46.150.66.226	20/08/2024	AWS .ENV Files	Vulnerabilidad
+IP	49.37.170.97	20/08/2024	AWS .ENV Files	Vulnerabilidad
+IP	139.99.68.203	20/08/2024	AWS .ENV Files	Vulnerabilidad
+IP	141.95.89.92	20/08/2024	AWS .ENV Files	Vulnerabilidad
+IP	146.70.184.10	20/08/2024	AWS .ENV Files	Vulnerabilidad
+IP	178.132.108.124	20/08/2024	AWS .ENV Files	Vulnerabilidad
+IP	193.42.98.65	20/08/2024	AWS .ENV Files	Vulnerabilidad
+IP	193.42.99.169	20/08/2024	AWS .ENV Files	Vulnerabilidad
+IP	193.42.99.50	20/08/2024	AWS .ENV Files	Vulnerabilidad
+IP	193.42.99.58	20/08/2024	AWS .ENV Files	Vulnerabilidad
+IP	195.158.248.220	20/08/2024	AWS .ENV Files	Vulnerabilidad
+IP	195.158.248.60	20/08/2024	AWS .ENV Files	Vulnerabilidad
+IP	45.137.126.12	20/08/2024	AWS .ENV Files	Vulnerabilidad
+IP	45.137.126.16	20/08/2024	AWS .ENV Files	Vulnerabilidad
+IP	45.137.126.18	20/08/2024	AWS .ENV Files	Vulnerabilidad
+IP	45.137.126.41	20/08/2024	AWS .ENV Files	Vulnerabilidad
+IP	45.94.208.42	20/08/2024	AWS .ENV Files	Vulnerabilidad
+IP	45.94.208.63	20/08/2024	AWS .ENV Files	Vulnerabilidad
+IP	45.94.208.76	20/08/2024	AWS .ENV Files	Vulnerabilidad
+IP	45.94.208.85	20/08/2024	AWS .ENV Files	Vulnerabilidad
+IP	72.55.136.154	20/08/2024	AWS .ENV Files	Vulnerabilidad
+IP	95.214.216.158	20/08/2024	AWS .ENV Files	Vulnerabilidad
+IP	95.214.217.173	20/08/2024	AWS .ENV Files	Vulnerabilidad
+IP	95.214.217.224	20/08/2024	AWS .ENV Files	Vulnerabilidad
+IP	95.214.217.242	20/08/2024	AWS .ENV Files	Vulnerabilidad
+IP	95.214.217.33	20/08/2024	AWS .ENV Files	Vulnerabilidad
+IP	185.220.100.243	21/08/2024	Comportamiento sospechoso asociado a la red TOR	Malware
+IP	45.83.104.137	21/08/2024	Comportamiento sospechoso asociado a la red TOR	Malware
+IP	45.134.142.200	22/08/2024	Alerta Csirt Chile FPH24-00996	Phishing
+IP	66.29.141.3	22/08/2024	Alerta Csirt Chile FPH24-00996	Phishing
+IP	107.191.33.186	22/08/2024	Alerta Csirt Chile FPH24-00996	Phishing
+IP	38.7.202.3	22/08/2024	Alerta Csirt Chile FPH24-00996	Phishing
+IP	173.209.33.162	22/08/2024	Alerta Csirt Chile FPH24-00996	Phishing
+IP	64.20.61.146	29/08/2024	Remote utilities trojan	Malware
