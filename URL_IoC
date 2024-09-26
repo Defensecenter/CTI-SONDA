@@ -215,7 +215,6 @@ URL	http://91.241.19.49/CRYPS/F3dll.txt	20/08/2024	BlindEagle (APT-C-36)	Phishin
 URL	http://91.241.19.49/CRYP/F3runpe.txt	20/08/2024	BlindEagle (APT-C-36)	Phishing
 URL	http://91.241.19.49/test/new/WX1.txt	20/08/2024	BlindEagle (APT-C-36)	Phishing
 URL	https://github.com/brentp/gargs/releases/download/v0.3.9/gargs_linux	20/08/2024	AWS .ENV Files	Vulnerabilidad
-Host	spyware.win32.tesla.tc	21/08/2024	Styx Stealer 	Malware
 URL	http://microsoft.updates.catalogs.pt/reporte-financeiro-template.dot	22/08/2024	Campañas Phishing Chile	Phishing
 URL	https://petrofast.com.pk	22/08/2024	Alerta Csirt Chile FPH24-00996	Phishing
 URL	http://62.133.61.56/Downloads/Full%20Video%20HD%20(1080p).lnk	23/08/2024	PEAKLIGHT	Malware
