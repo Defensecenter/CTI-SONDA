@@ -285,6 +285,12 @@ IP	46.4.78.3	23/09/2024	Node Tor IP	Malware
 IP	86.59.21.38	25/09/2024	Node Tor IP	Malware
 IP	91.92.241.129	26/09/2024	scanning IP	Ataques de fuerza bruta
 IP	177.104.142.225	30/09/2024	Node Tor IP	Malware
+IP	194.49.94.18	30/09/2024	Nitrogen	Malware
+IP	194.169.175.134	30/09/2024	Nitrogen	Malware
+IP	91.92.250.60	30/09/2024	Nitrogen	Malware
+IP	91.92.250.65	30/09/2024	Nitrogen	Malware
+IP	91.92.245.26	30/09/2024	Nitrogen	Malware
+IP	195.123.226.84	30/09/2024	Nitrogen	Malware
 IP	94.16.121.226	1/10/2024	Node Tor IP	Malware
 IP	195.201.174.108	1/10/2024	Node Tor IP	Malware
 IP	116.202.25.123	1/10/2024	Node Tor IP	Malware
@@ -516,5 +522,18 @@ IP	46.232.248.143	1/10/2024	Node Tor IP	Malware
 IP	46.232.248.143	1/10/2024	Node Tor IP	Malware
 IP	137.226.34.45	1/10/2024	Node Tor IP	Malware
 IP	137.226.34.45	1/10/2024	Node Tor IP	Malware
+IP	185.220.101.196	3/10/2024	Node Tor IP	Malware
+IP	2.58.95.55	3/10/2024	botnet Gorilla 	Malware
+IP	45.128.232.100	3/10/2024	botnet Gorilla 	Malware
+IP	45.128.232.138	3/10/2024	botnet Gorilla 	Malware
+IP	45.128.232.169	3/10/2024	botnet Gorilla 	Malware
+IP	84.54.51.107	3/10/2024	botnet Gorilla 	Malware
+IP	84.54.51.132	3/10/2024	botnet Gorilla 	Malware
+IP	84.54.51.144	3/10/2024	botnet Gorilla 	Malware
+IP	84.54.51.195	3/10/2024	botnet Gorilla 	Malware
+IP	84.54.51.205	3/10/2024	botnet Gorilla 	Malware
+IP	84.54.51.206	3/10/2024	botnet Gorilla 	Malware
+IP	84.54.51.207	3/10/2024	botnet Gorilla 	Malware
+IP	84.54.51.208	3/10/2024	botnet Gorilla 	Malware
 IP	185.220.101.196	3/10/2024	Node Tor IP	Malware
 
