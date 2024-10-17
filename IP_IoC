@@ -536,4 +536,35 @@ IP	84.54.51.206	3/10/2024	botnet Gorilla 	Malware
 IP	84.54.51.207	3/10/2024	botnet Gorilla 	Malware
 IP	84.54.51.208	3/10/2024	botnet Gorilla 	Malware
 IP	185.220.101.196	3/10/2024	Node Tor IP	Malware
+IP	167.0.201.5	7/10/2024	BlindEagle (APT-C-36)	Phishing
+IP	186.169.63.46	7/10/2024	BlindEagle (APT-C-36)	Phishing
+IP	190.9.223.135	7/10/2024	BlindEagle (APT-C-36)	Phishing
+IP	51.79.159.162	7/10/2024	BlindEagle (APT-C-36)	Phishing
+IP	1.92.89.193	7/10/2024	BlindEagle (APT-C-36)	Phishing
+IP	100.1.226.154	7/10/2024	BlindEagle (APT-C-36)	Phishing
+IP	67.225.147.72	7/10/2024	BlindEagle (APT-C-36)	Phishing
+IP	63.250.38.75	7/10/2024	BlindEagle (APT-C-36)	Phishing
+IP	103.159.84.116	7/10/2024	BlindEagle (APT-C-36)	Phishing
+IP	92.204.132.114	7/10/2024	BlindEagle (APT-C-36)	Phishing
+IP	173.236.127.23	7/10/2024	BlindEagle (APT-C-36)	Phishing
+IP	190.9.223.135	9/10/2024	ASYNCRAT	Phishing
+IP	54.37.137.114	10/10/2024	xmr-nanopool	Malware
+IP	51.15.193.130	10/10/2024	xmr-nanopool	Malware
+IP	163.172.154.142	10/10/2024	xmr-nanopool	Malware
+IP	51.15.58.224	10/10/2024	xmr-nanopool	Malware
+IP	162.19.224.121	10/10/2024	xmr-nanopool	Malware
+IP	146.59.154.106	10/10/2024	xmr-nanopool	Malware
+IP	141.94.23.83	10/10/2024	xmr-nanopool	Malware
+IP	51.89.23.91	10/10/2024	xmr-nanopool	Malware
+IP	51.15.65.182	10/10/2024	xmr-nanopool	Malware
+IP	212.47.253.124	10/10/2024	xmr-nanopool	Malware
+IP	54.37.232.103	10/10/2024	xmr-nanopool	Malware
+IP	23.26.35.67	10/10/2024	Mamba 2fa	Robo de datos
+IP	23.26.206.99	10/10/2024	Mamba 2fa	Robo de datos
+IP	45.86.54.206	10/10/2024	Mamba 2fa	Robo de datos
+IP	45.9.153.102	10/10/2024	Mamba 2fa	Robo de datos
+IP	194.36.90.111	10/10/2024	Mekotio	Phishing
+IP	135.53.167.72	10/10/2024	Mekotio	Phishing
+IP	203.21.205.92	10/10/2024	Mekotio	Phishing
+
 
