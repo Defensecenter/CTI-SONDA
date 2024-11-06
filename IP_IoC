@@ -566,5 +566,69 @@ IP	45.9.153.102	10/10/2024	Mamba 2fa	Robo de datos
 IP	194.36.90.111	10/10/2024	Mekotio	Phishing
 IP	135.53.167.72	10/10/2024	Mekotio	Phishing
 IP	203.21.205.92	10/10/2024	Mekotio	Phishing
+IP	65.109.67.160	16/10/2024	[Evento N° QR00948]	Malware
+IP	178.254.20.235	16/10/2024	[Evento N° QR00942]	Malware
+IP	185.254.99.26	16/10/2024	[Evento N° QR00942]	Malware
+IP	144.91.125.239	16/10/2024	[Evento N° QR00942]	Malware
+IP	185.220.101.195	16/10/2024	[Evento N° QR00942]	Malware
+IP	146.19.168.223	16/10/2024	[Evento N° QR00942]	Malware
+IP	94.23.76.244	16/10/2024	[Evento N° QR00942]	Malware
+IP	198.235.24.220 	21/10/2024	[Evento N° QR00957]	Malware
+IP	157.90.212.53	22/10/2024	[Evento N° QR00960]	Malware
+IP	185.173.111.203	24/10/2024	Alerta de Seguridad bancaria en Colombia	Phishing
+IP	43.138.110.102	28/10/2024	Redline	Robo de datos
+IP	47.100.73.209	28/10/2024	Redline	Robo de datos
+IP	47.100.131.29	28/10/2024	Redline	Robo de datos
+IP	49.7.218.39	28/10/2024	Redline	Robo de datos
+IP	49.7.231.52	28/10/2024	Redline	Robo de datos
+IP	52.178.33.216	28/10/2024	Redline	Robo de datos
+IP	113.249.156.205	28/10/2024	Redline	Robo de datos
+IP	124.71.210.169	28/10/2024	Redline	Robo de datos
+IP	182.42.146.67	28/10/2024	Redline	Robo de datos
+IP	182.42.152.85	28/10/2024	Redline	Robo de datos
+IP	182.42.153.117	28/10/2024	Redline	Robo de datos
+IP	182.42.154.195	28/10/2024	Redline	Robo de datos
+IP	185.215.113.9	28/10/2024	Redline	Robo de datos
+IP	185.215.113.25	28/10/2024	Redline	Robo de datos
+IP	185.215.113.67	28/10/2024	Redline	Robo de datos
+IP	91.202.233.234	28/10/2024	Actividad Sospechosa	Ransomware
+IP	103.91.208.68	28/10/2024	Actividad Sospechosa	Ransomware
+IP	89.213.177.81	28/10/2024	Actividad Sospechosa	Ransomware
+IP	91.202.233.169	28/10/2024	Actividad Sospechosa	Ransomware
+IP	45.83.207.67	28/10/2024	Actividad Sospechosa	Ransomware
+IP	144.91.79.54	28/10/2024	Actividad Sospechosa	Ransomware
+IP	103.216.158.119	28/10/2024	Actividad Sospechosa	Ransomware
+IP	94.156.66.35	28/10/2024	Actividad Sospechosa	Ransomware
+IP	185.215.113.16	28/10/2024	Actividad Sospechosa	Ransomware
+IP	185.215.113.19	28/10/2024	Actividad Sospechosa	Ransomware
+IP	185.215.113.117	28/10/2024	Actividad Sospechosa	Ransomware
+IP	66.150.198.142	28/10/2024	Actividad Sospechosa	Ransomware
+IP	185.189.12.184	28/10/2024	Actividad Sospechosa	Ransomware
+IP	15.235.206.13	28/10/2024	Actividad Sospechosa	Ransomware
+IP	124.105.24.67	30/10/2024	Mail sospechoso 	Phishing
+IP	38.52.220.113	30/10/2024	Mail sospechoso 	Phishing
+IP	94.74.207.202	30/10/2024	Mail sospechoso 	Phishing
+IP	113.185.77.242	30/10/2024	Mail sospechoso 	Phishing
+IP	124.106.156.215	30/10/2024	Mail sospechoso 	Phishing
+IP	188.175.120.235	30/10/2024	Mail sospechoso 	Phishing
+IP	223.25.63.118	30/10/2024	Mail sospechoso 	Phishing
+IP	200.53.17.32	30/10/2024	Mail sospechoso 	Phishing
+IP	45.184.143.29	30/10/2024	Mail sospechoso 	Phishing
+IP	103.65.119.82	30/10/2024	Mail sospechoso 	Phishing
+IP	165.90.75.129	30/10/2024	Mail sospechoso 	Phishing
+IP	172.96.137.224	31/10/2024	Ransomware Play	Ransomware
+IP	172.67.183.250	1/11/2024	Lokibot	Malware
+IP	104.21.96.153	1/11/2024	Lokibot	Malware
+IP	104.21.76.54	1/11/2024	Lokibot	Malware
+IP	37.48.65.151	1/11/2024	Lokibot	Malware
+IP	94.156.177.220	1/11/2024	Lokibot	Malware
+IP	172.67.163.14	1/11/2024	Lokibot	Malware
+IP	34.90.60.144	1/11/2024	Lokibot	Malware
+IP	104.21.25.154	1/11/2024	Lokibot	Malware
+IP	103.229.73.18	1/11/2024	Lokibot	Malware
+IP	45.149.241.168	1/11/2024	Lokibot	Malware
+IP	45.149.241.169	1/11/2024	Lokibot	Malware
+IP	45.66.231.242	1/11/2024	Lokibot	Malware
+IP	178.62.216.118	5/11/2024	[Evento N° QR00987]	Inyección de Código
 
 
